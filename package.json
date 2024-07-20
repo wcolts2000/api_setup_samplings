@@ -23,7 +23,7 @@
     "helmet": "^3.23.3",
     "knex": "^2.4.0",
     "morgan": "^1.9.1",
-    "sqlite3": "^4.2.0"
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "eslint": "^5.12.0",
